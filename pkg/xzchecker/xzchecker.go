@@ -9,6 +9,7 @@ import (
 	"io"
 	"io/ioutil"
 	"os"
+	"regexp"
 	"strings"
 	"sync"
 
@@ -72,7 +73,7 @@ func checkXZInImage(image string, resultsChan chan<- ImageCheckResult, wg *sync.
 
 	resp, err := cli.ContainerCreate(ctx, &container.Config{
 		Image: image,
-		Cmd:   []string{"sh", "-c", "command -v xz && xz --version || echo 'xz not found'"},
+		Cmd:   []string{"sh", "-c", "xz --version"},
 	}, nil, nil, nil, "")
 	if err != nil {
 		resultsChan <- ImageCheckResult{ImageName: image, Error: err}
@@ -124,11 +125,12 @@ func writeReport(results []ImageCheckResult, filename string) error {
 
 	for _, result := range results {
 		var reportLine string
+		cleanOutput := regexp.MustCompile(`[\x00-\x1F\x7F-\x9F]`).ReplaceAllString(result.Output, "")
 		if result.Error != nil {
 			reportLine = fmt.Sprintf("Image: %s - Error: %v\n", result.ImageName, result.Error)
-		} else if strings.Contains(result.Output, "/xz") {
+		} else if strings.Contains(cleanOutput, "xz") {
 			// Extract the first line or relevant part as the version info
-			lines := strings.Split(result.Output, "\n")
+			lines := strings.Split(cleanOutput, "\n")
 			versionInfo := "version info not found"
 			for _, line := range lines {
 				if strings.Contains(line, "xz") {

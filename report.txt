@@ -1,163 +1,163 @@
-Image: express-gateway - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: emqx - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: dart - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: silverpeas - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: spark - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: geonetwork - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: hola-mundo - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: mageia - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: known - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: ubuntu-upstart - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: api-firewall - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: glassfish - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: jobber - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: euleros - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: crux - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: clefos - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: postfixadmin - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: alt - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: satosa - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: unit - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: sourcemage - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: sl - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: cirros - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: almalinux - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: rails - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: eggdrop - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
-Image: perl - Error: error pulling image: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
 Image: scratch - Error: error pulling image: Error response from daemon: 'scratch' is a reserved name
-Image: logstash - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: consul - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: jenkins - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
+Image: elasticsearch - Error: error pulling image: Error response from daemon: manifest for elasticsearch:latest not found: manifest unknown: manifest unknown
+Image: docker-dev - Error: error pulling image: Error response from daemon: manifest for docker-dev:latest not found: manifest unknown: manifest unknown
 Image: dcl2020 - Error: error pulling image: Error response from daemon: pull access denied for dcl2020, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
-Image: percona - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: neurodebian - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: rockylinux - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: java - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: kibana - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: docker-dev - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: gazebo - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: haskell - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: teamspeak - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: hello-seattle - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: hitch - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: archlinux - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: rapidoid - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: ibmjava - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: julia - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: r-base - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: fsharp - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: yourls - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: crate - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: plone - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: storm - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: rakudo-star - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: kaazing-gateway - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: swipl - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: orientdb - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: websphere-liberty - Error: error pulling image: Error response from daemon: toomanyrequests: You have reached your pull rate limit. You may increase the limit by authenticating and upgrading: https://www.docker.com/increase-rate-limit
-Image: eclipse-mosquitto - xz not found
-Image: caddy - xz not found
-Image: celery - xz not found
-Image: couchdb - xz not found
-Image: alpine - xz not found
-Image: gradle - xz not found
+Image: aerospike - Error: error pulling image: Error response from daemon: manifest for aerospike:latest not found: manifest unknown: manifest unknown
+Image: jenkins - Error: error pulling image: Error response from daemon: manifest for jenkins:latest not found: manifest unknown: manifest unknown
+Image: kibana - Error: error pulling image: Error response from daemon: manifest for kibana:latest not found: manifest unknown: manifest unknown
+Image: vault - Error: error pulling image: Error response from daemon: manifest for vault:latest not found: manifest unknown: manifest unknown
+Image: archlinux - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: consul - Error: error pulling image: Error response from daemon: manifest for consul:latest not found: manifest unknown: manifest unknown
+Image: notary - Error: error pulling image: Error response from daemon: manifest for notary:latest not found: manifest unknown: manifest unknown
+Image: rocket.chat - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: ibm-semeru-runtimes - Error: error pulling image: Error response from daemon: manifest for ibm-semeru-runtimes:latest not found: manifest unknown: manifest unknown
+Image: percona - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: gazebo - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: teamspeak - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: sentry - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: thrift - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: websphere-liberty - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: php-zendserver - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: sl - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: opensuse - Error: error pulling image: Error response from daemon: manifest for opensuse:latest not found: manifest unknown: manifest unknown
+Image: nuxeo - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: sourcemage - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: mariadb - xz (XZ Utils) 5.2.5liblzma 5.2.5
+Image: clefos - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: ibmjava - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: java - Error: error pulling image: Error response from daemon: manifest for java:latest not found: manifest unknown: manifest unknown
+Image: cheers - Error: error pulling image: Error response from daemon: pull access denied for cheers, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
+Image: rockylinux - Error: error pulling image: Error response from daemon: manifest for rockylinux:latest not found: manifest unknown: manifest unknown
+Image: iojs - xz (XZ Utils) 5.1.0alphaliblzma 5.1.0alpha
+Image: logstash - Error: error pulling image: Error response from daemon: manifest for logstash:latest not found: manifest unknown: manifest unknown
+Image: clearlinux - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: jobber - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
+Image: debian - xz not found
+Image: silverpeas - Error: error pulling image: no matching manifest for linux/arm64/v8 in the manifest list entries
 Image: redis - xz not found
-Image: memcached - xz not found
+Image: glassfish - xz (XZ Utils) 5.1.0alphaliblzma 5.1.0alpha
+Image: alpine - xz not found
+Image: eclipse-temurin - xz not found
+Image: celery - xz not found
+Image: caddy - xz not found
+Image: nats-streaming - xz not found
+Image: composer - xz (XZ Utils) 5.4.5liblzma 5.4.5
+Image: registry - xz not found
+Image: wordpress - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: kapacitor - xz not found
+Image: hipache - xz (XZ Utils) 5.1.0alphaliblzma 5.1.0alpha
+Image: sapmachine - xz not found
+Image: mongo - xz not found
+Image: backdrop - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: joomla - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: drupal - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: ubuntu-upstart - xz not found
+Image: ruby - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: pypy - xz (XZ Utils) 5.2.5liblzma 5.2.5
+Image: python - xz (XZ Utils) 5.4.1liblzma 5.4.1
 Image: convertigo - xz not found
-Image: centos - xz (XZ Utils) 5.2.4liblzma 5.2.4
+Image: odoo - xz (XZ Utils) 5.2.5liblzma 5.2.5
+Image: ubuntu-debootstrap - xz not found
+Image: sonarqube - xz not found
+Image: zookeeper - xz not found
+Image: nextcloud - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: amazonlinux - xz not found
+Image: buildpack-deps - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: eclipse-mosquitto - xz not found
+Image: elixir - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: gradle - xz not found
+Image: nginx - xz not found
+Image: adoptopenjdk - xz not found
+Image: couchdb - xz not found
+Image: memcached - xz not found
+Image: ubuntu - xz not found
+Image: perl - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: amazoncorretto - xz not found
+Image: traefik - xz not found
+Image: known - xz (XZ Utils) 5.2.2liblzma 5.2.2
+Image: postfixadmin - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: bash - xz not found
+Image: php - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: spark - xz (XZ Utils) 5.2.4liblzma 5.2.4
+Image: solr - xz not found
 Image: erlang - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: bonita - xz not found
+Image: centos - xz (XZ Utils) 5.2.4liblzma 5.2.4
+Image: openjdk - xz not found
+Image: kong - xz not found
 Image: groovy - xz not found
 Image: busybox - xz not found
-Image: amazonlinux - xz not found
-Image: httpd - xz not found
-Image: jetty - xz not found
-Image: mediawiki - xz (XZ Utils) 5.4.1liblzma 5.4.1
-Image: owncloud - xz (XZ Utils) 5.2.2liblzma 5.2.2
-Image: haproxy - xz not found
+Image: rethinkdb - xz not found
 Image: maven - xz not found
-Image: ubuntu - xz not found
-Image: pypy - xz (XZ Utils) 5.2.5liblzma 5.2.5
-Image: nextcloud - xz (XZ Utils) 5.4.1liblzma 5.4.1
-Image: sapmachine - xz not found
-Image: buildpack-deps - xz (XZ Utils) 5.4.1liblzma 5.4.1
-Image: kapacitor - xz not found
-Image: irssi - xz not found
-Image: open-liberty - xz not found
-Image: golang - xz not found
-Image: rust - xz (XZ Utils) 5.4.1liblzma 5.4.1
-Image: kong - xz not found
-Image: php - xz (XZ Utils) 5.4.1liblzma 5.4.1
-Image: mariadb - xz (XZ Utils) 5.2.5liblzma 5.2.5
-Image: amazoncorretto - xz not found
-Image: backdrop - xz (XZ Utils) 5.4.1liblzma 5.4.1
-Image: nginx - xz not found
-Image: nats-streaming - xz not found
-Image: varnish - xz (XZ Utils) 5.4.1liblzma 5.4.1
-Image: monica - xz (XZ Utils) 5.4.1liblzma 5.4.1
-Image: ghost - xz not found
-Image: bash - xz not found
-Image: composer - xz (XZ Utils) 5.4.5liblzma 5.4.5
 Image: hello-world - Error: Error response from daemon: failed to create task for container: failed to create shim task: OCI runtime create failed: runc create failed: unable to start container process: exec: "sh": executable file not found in $PATH: unknown
-Image: registry - xz not found
-Image: friendica - xz (XZ Utils) 5.2.5liblzma 5.2.5
-Image: sonarqube - xz not found
-Image: fluentd - xz not found
-Image: joomla - xz (XZ Utils) 5.4.1liblzma 5.4.1
-Image: odoo - xz (XZ Utils) 5.2.5liblzma 5.2.5
-Image: rabbitmq - xz not found
-Image: mysql - xz (XZ Utils) 5.2.4liblzma 5.2.4
-Image: influxdb - xz not found
+Image: node - xz (XZ Utils) 5.4.1liblzma 5.4.1
 Image: flink - xz not found
+Image: golang - xz not found
+Image: chronograf - xz not found
+Image: cassandra - xz not found
+Image: matomo - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: rabbitmq - xz not found
+Image: couchbase - xz (XZ Utils) 5.2.4liblzma 5.2.4
+Image: monica - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: haxe - xz not found
+Image: docker - xz (XZ Utils) 5.4.5liblzma 5.4.5
+Image: fedora - xz not found
+Image: mysql - xz (XZ Utils) 5.2.4liblzma 5.2.4
+Image: varnish - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: nats - xz not found
+Image: lightstreamer - xz not found
+Image: fluentd - xz not found
+Image: influxdb - xz not found
+Image: httpd - xz not found
+Image: tomcat - xz not found
+Image: adminer - xz (XZ Utils) 5.2.5liblzma 5.2.5
+Image: mongo-express - xz not found
+Image: mediawiki - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: jetty - xz not found
+Image: irssi - xz not found
+Image: neo4j - xz not found
+Image: open-liberty - xz not found
+Image: haproxy - xz not found
+Image: postgres - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: friendica - xz (XZ Utils) 5.2.5liblzma 5.2.5
 Image: piwik - xz (XZ Utils) 5.2.2liblzma 5.2.2
-Image: elasticsearch - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: telegraf - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: eclipse-temurin - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
-Image: elixir - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: node - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: ros - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: haxe - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: mongo - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: vault - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: ubuntu-debootstrap - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: thrift - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: fedora - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: solr - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: nats - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: sentry - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: cheers - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: spiped - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: couchbase - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": context deadline exceeded
-Image: ibm-semeru-runtimes - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": context deadline exceeded
-Image: opensuse - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: docker - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: aerospike - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: notary - Error: error pulling image: Error response from daemon: Get "https://registry-1.docker.io/v2/": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout (Client.Timeout exceeded while awaiting headers)
-Image: tomcat - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/tomcat/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Ftomcat%3Apull&service=registry.docker.io": context deadline exceeded
-Image: postgres - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/postgres/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fpostgres%3Apull&service=registry.docker.io": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: matomo - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/matomo/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fmatomo%3Apull&service=registry.docker.io": context deadline exceeded
-Image: openjdk - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/openjdk/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fopenjdk%3Apull&service=registry.docker.io": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: nuxeo - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/nuxeo/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fnuxeo%3Apull&service=registry.docker.io": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: python - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/python/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fpython%3Apull&service=registry.docker.io": context deadline exceeded
-Image: ruby - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/ruby/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fruby%3Apull&service=registry.docker.io": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: clearlinux - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/clearlinux/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fclearlinux%3Apull&service=registry.docker.io": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: photon - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/photon/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fphoton%3Apull&service=registry.docker.io": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: drupal - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/drupal/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fdrupal%3Apull&service=registry.docker.io": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: rocket.chat - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/rocket.chat/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Frocket.chat%3Apull&service=registry.docker.io": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: iojs - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/iojs/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fiojs%3Apull&service=registry.docker.io": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
-Image: adoptopenjdk - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/adoptopenjdk/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fadoptopenjdk%3Apull&service=registry.docker.io": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: mongo-express - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/mongo-express/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fmongo-express%3Apull&service=registry.docker.io": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: chronograf - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/chronograf/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fchronograf%3Apull&service=registry.docker.io": context deadline exceeded
-Image: hipache - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/hipache/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fhipache%3Apull&service=registry.docker.io": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: adminer - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/adminer/manifests/latest": Get "https://auth.docker.io/token?scope=repository%3Alibrary%2Fadminer%3Apull&service=registry.docker.io": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
-Image: bonita - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/bonita/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: wordpress - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/wordpress/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: debian - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/debian/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: lightstreamer - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/lightstreamer/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: cassandra - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/cassandra/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: php-zendserver - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/php-zendserver/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: neo4j - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/neo4j/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: zookeeper - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/zookeeper/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: traefik - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/traefik/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: tomee - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/tomee/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
-Image: rethinkdb - Error: error pulling image: Error response from daemon: Head "https://registry-1.docker.io/v2/library/rethinkdb/manifests/latest": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
+Image: owncloud - xz (XZ Utils) 5.2.2liblzma 5.2.2
+Image: almalinux - Error: error pulling image: Get "https://registry-1.docker.io/v2/library/almalinux/manifests/sha256:264e8aadc96b83d1d9487421ac602adc6bbf6832cc75b70e03b947a29dfe7dac": proxyconnect tcp: dial tcp 192.168.65.1:3128: i/o timeout
+Image: rails - xz not found
+Image: cirros - xz not found
+Image: tomee - xz not found
+Image: telegraf - xz not found
+Image: express-gateway - xz not found
+Image: alt - xz (XZ Utils) 5.2.5liblzma 5.2.5
+Image: rakudo-star - xz not found
+Image: photon - xz not found
+Image: rapidoid - xz not found
+Image: rust - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: plone - '*** Unknown syntax: sh -c xz --version
+Image: orientdb - xz not found
+Image: storm - xz not found
+Image: ros - xz (XZ Utils) 5.2.5liblzma 5.2.5
+Image: yourls - xz (XZ Utils) 5.4.1liblzma 5.4.1
+Image: eggdrop - xz not found
+Image: kaazing-gateway - xz (XZ Utils) 5.2.5liblzma 5.2.5
+Image: neurodebian - xz not found
+Image: emqx - xz not found
+Image: crate - xz (XZ Utils) 5.2.5liblzma 5.2.5
+Image: unit - xz not found
+Image: hello-seattle - Error: Error response from daemon: failed to create task for container: failed to create shim task: OCI runtime create failed: runc create failed: unable to start container process: exec: "sh": executable file not found in $PATH: unknown
+Image: spiped - xz not found
+Image: mageia - xz (XZ Utils) 5.2.5liblzma 5.2.5
+Image: satosa - xz not found
+Image: crux - xz (XZ Utils) 5.2.4liblzma 5.2.4
+Image: api-firewall - xz not found
+Image: hitch - xz not found
+Image: hola-mundo - Error: Error response from daemon: failed to create task for container: failed to create shim task: OCI runtime create failed: runc create failed: unable to start container process: exec: "sh": executable file not found in $PATH: unknown
+Image: fsharp - xz not found
+Image: swipl - xz not found
+Image: geonetwork - xz not found
+Image: dart - xz not found
+Image: euleros - xz not found
+Image: julia - xz not found
+Image: r-base - xz (XZ Utils) 5.4.5liblzma 5.4.5
+Image: haskell - xz (XZ Utils) 5.2.4liblzma 5.2.4
+Image: ghost - xz not found
